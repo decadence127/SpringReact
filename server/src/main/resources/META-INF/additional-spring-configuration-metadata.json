@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for jwtSecret."
+    },
+    {
+      "name": "queries.users-query",
+      "type": "java.lang.String",
+      "description": "Description for queries.users-query."
+    },
+    {
+      "name": "queries.roles-query",
+      "type": "java.lang.String",
+      "description": "Description for queries.roles-query."
+    },
+    {
+      "name": "jwtExpiration",
+      "type": "java.lang.String",
+      "description": "Description for jwtExpiration."
+    }
+  ] }
